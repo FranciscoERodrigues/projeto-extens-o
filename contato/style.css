@@ -1,0 +1,54 @@
+*{
+    padding: 0;
+    margin: 0;
+    background-color: black; 
+}
+
+
+h1 {
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-bottom: 2%;
+    text-align: center;  
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 35px;
+}
+
+.social {
+    padding: 2%;
+    text-align: center;
+}
+
+.social h2 {
+    padding: 2%;
+}
+
+h2 {
+    padding-top: 2%;
+    font-family: "Montserrat", serif;
+    color: red;
+
+}
+
+header {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+button{
+   
+    border: 0;
+    cursor: pointer;
+    color: white;
+    font-size: 45px;
+    font-family: "Montserrat", serif;
+}
+
+.texto {
+    
+   
+    color: aliceblue;
+    text-decoration:none;
+
+}
